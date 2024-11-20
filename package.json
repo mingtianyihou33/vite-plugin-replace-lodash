@@ -1,10 +1,12 @@
 {
   "name": "vite-plugin-replace-lodash",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "keywords": [],
   "author": "mingtianyihou33 <liumingyi1428@126.com>",
-  "repository": "https://github.com/mingtianyihou33/vite-plugin-replace-lodash.git",
+  "repository": {
+    "url": "git+https://github.com/mingtianyihou33/vite-plugin-replace-lodash.git"
+  },
   "license": "MIT",
   "type": "module",
   "scripts": {
