@@ -10,7 +10,7 @@ on:
       - main
 
 jobs:
-  test-build:
+  test-build-publish:
     runs-on: ubuntu-latest
 
     steps:

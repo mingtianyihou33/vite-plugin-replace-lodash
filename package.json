@@ -1,8 +1,8 @@
 {
   "name": "vite-plugin-replace-lodash",
-  "version": "1.0.2",
-  "description": "",
-  "keywords": [],
+  "version": "1.0.3",
+  "description": "Replacing the import of lodash with lodash-es is more beneficial to tree-shaking",
+  "keywords": ["vite-plugin", "lodash"],
   "author": "mingtianyihou33 <liumingyi1428@126.com>",
   "repository": {
     "url": "git+https://github.com/mingtianyihou33/vite-plugin-replace-lodash.git"
