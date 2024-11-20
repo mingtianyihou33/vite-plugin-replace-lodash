@@ -3,7 +3,8 @@
 **English** | [中文](./README.zh_CN.md)
 
 A `Vite` plugin is used to replace `lodash` with `lodash-es` to prevent all lodash modules are imported and the bundle volume is too large because it cannot tree-shaking.
-Note: The 'lodash-es' module needs to be installed separately.
+
+Notice: The `lodash-es` module needs to be installed separately.
 
 ## Install
 
