@@ -1,6 +1,6 @@
 {
   "name": "vite-plugin-replace-lodash",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Replacing the import of lodash with lodash-es is more beneficial to tree-shaking",
   "keywords": ["vite-plugin", "lodash"],
   "author": "mingtianyihou33 <liumingyi1428@126.com>",

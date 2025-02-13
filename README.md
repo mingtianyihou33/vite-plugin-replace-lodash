@@ -11,13 +11,13 @@ Notice: The `lodash-es` module needs to be installed separately.
 npm:
 
 ```bash
-npm install vite-plugin-replace-lodash
+npm install vite-plugin-replace-lodash -D
 ```
 
 pnpm:
 
 ```bash
-pnpm add vite-plugin-replace-lodash
+pnpm add vite-plugin-replace-lodash -D
 ```
 
 ## Usage
